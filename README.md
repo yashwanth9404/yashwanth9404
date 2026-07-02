@@ -1,3 +1,11 @@
+👋 Hi there, I'm Yashwanth!
+
+💻 Passionate Java Full Stack Developer | Backend Enthusiast | Problem Solver
+
+I recently graduated with a B.Tech in Electronics and Communication Engineering from Amrita Vishwa Vidyapeetham, Coimbatore. I'm currently working as a Java Full Stack Backend Intern at KodNest, where I'm building scalable backend applications using Java and Spring Boot.
+
+I enjoy solving coding problems, learning new technologies, and building real-world applications. I'm always looking for opportunities to improve my skills and contribute to meaningful projects.
+
 # 💫 About Me:
 🔭 I'm currently working on: Java Full Stack Backend Development using Spring Boot<br>👯 I'm looking to collaborate on: Open Source Java and Spring Boot Projects<br>🤝 I'm looking for help with: Microservices and System Design<br>🌱 I'm currently learning: Spring Boot, Spring Security, REST APIs, DSA<br>💬 Ask me about: Java, Spring Boot, MySQL, Git, Backend Development<br>⚡ Fun fact: I love following Formula 1, playing cricket, and listening to music.<br>📫 Reach me at: yashwanthpeddakudala@gmail.com
 
